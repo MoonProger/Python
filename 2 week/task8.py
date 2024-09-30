@@ -1,3 +1,8 @@
+"""
+leetcode.com/problem-list/string/
+url: https://leetcode.com/problems/compare-version-numbers/description/
+"""
+
 class Solution(object):
     def compareVersion(self, version1, version2):
         v1_splited = version1.split(".")

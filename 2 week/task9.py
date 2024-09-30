@@ -1,3 +1,8 @@
+"""
+leetcode.com/problem-list/string/
+url: https://leetcode.com/problems/palindrome-partitioning/description/
+"""
+
 class Solution(object):
     def partition(self, s):
         stack = [(0, [])]

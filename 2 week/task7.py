@@ -1,3 +1,9 @@
+"""
+leetcode.com/problem-list/string/
+url: https://leetcode.com/problems/generate-parentheses/description/
+"""
+
+
 class Solution(object):
     def generateParenthesis(self, n):
         result = []

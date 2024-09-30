@@ -1,3 +1,8 @@
+"""
+leetcode.com/problem-list/string/
+url: https://leetcode.com/problems/zigzag-conversion/description/
+"""
+
 class Solution(object):
     def convert(self, s, num_rows):
         if num_rows == 1 or num_rows >= len(s):
