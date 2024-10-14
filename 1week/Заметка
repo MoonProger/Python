@@ -1,0 +1,7 @@
+cd Python
+mkdir "* week"
+# задачи написаны и решены
+git add .
+git commit -m "* неделя"
+git pull
+git push origin main
