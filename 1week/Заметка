@@ -1,5 +1,5 @@
 cd Python
-mkdir "* week"
+mkdir "*week"
 # задачи написаны и решены
 git add .
 git commit -m "* неделя"
