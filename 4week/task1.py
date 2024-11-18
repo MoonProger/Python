@@ -1,5 +1,5 @@
 """
-leetcode.com/problem-list/array/
+leetcode.com/problem-list/string/
 url: https://leetcode.com/problems/container-with-most-water/description/
 """
 
