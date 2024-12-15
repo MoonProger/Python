@@ -31,10 +31,10 @@ class Solution(object):
                     lvl_nodes.append(node.val)
                 else:
                     lvl_nodes.appendleft(node.val)
-                if node.right:
-                    q.append(node.right)
                 if node.left:
                     q.append(node.left)
+                if node.right:
+                    q.append(node.right)
 
             res.append(list(lvl_nodes))
             left_right = not left_right

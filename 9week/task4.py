@@ -26,10 +26,10 @@ class Solution(object):
             for i in range(lvl_size):
                 node = q.popleft()
                 lvl_nodes.append(node.val)
-                if node.right:
-                    q.append(node.right)
                 if node.left:
                     q.append(node.left)
+                if node.right:
+                    q.append(node.right)
             res.append(lvl_nodes)
 
         return res
