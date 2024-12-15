@@ -1,5 +1,5 @@
 """
-leetcode.com/problem-list/string/
+leetcode.com/problem-list/array/
 url: https://leetcode.com/problems/merge-intervals/description/
 """
 
